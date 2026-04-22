@@ -1,0 +1,2 @@
+# Blank Project
+A [project](https://livecodes.io/?x=https://github.com/Simms-creator/bece/tree/gh-pages/src) created by [Simms-creator](https://github.com/Simms-creator) on [LiveCodes](https://livecodes.io).
